@@ -1,6 +1,6 @@
 # Hi! I'm Daniel 🍃⌨️ 
 
-![Github Background](https://github.com/DanielRolewski/DanielRolewski/assets/49525126/7343ff4d-b1ed-49f4-90fd-89588793746c)
+![Github Background](https://github.com/DanielRolewski/DanielRolewski/assets/49525126/42da9d41-8ac1-49d1-ba1a-6e120579d40a)
 
 I'm a backend developer (and also student at <a href="https://pg.edu.pl/">Gdańsk University of Technology</a> 📖) who is passionate about computer science, web development and web design. Some technologies I enjoy working with include <a href="https://laravel.com/">Laravel</a>, <a href="https://www.typescriptlang.org/">Typescript</a> and <a href="https://tailwindcss.com/">Tailwind</a>. I participated in some hackathons such as BeHealthy and Zombathon with my friends :raised_hands:. When I'm not coding, I also enjoy gardening 🌱
 
